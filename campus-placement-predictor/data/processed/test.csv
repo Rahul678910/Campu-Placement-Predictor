@@ -1,0 +1,361 @@
+student_id,gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_stream,degree_percentage,degree_field,internships_count,projects_count,work_experience,certifications_count,aptitude_test_score,coding_test_score,soft_skills_score,attendance_percentage,backlogs_history,placement_status,company_tier,salary_offered
+STU-2024-0234,Female,86.23,Central,87.58,ISC,Science,72.3,Electronics & Comm,1,2,No,2,99.0,72.14,5.83,84.46,0,Placed,Tier 2 (Growth/Mid-sized),8.43
+STU-2024-1542,Male,69.68,State,64.29,State,Science,76.65,Commerce & Management,2,5,Yes,4,72.71,57.2,7.68,80.42,0,Placed,Tier 2 (Growth/Mid-sized),7.29
+STU-2024-0139,Female,79.61,Central,78.39,State,Science,80.82,Computer Science,2,3,Yes,1,79.64,100.0,6.62,64.6,0,Placed,Tier 1 (Product/MNC),16.68
+STU-2024-0932,Male,73.69,Central,80.94,State,Science,69.81,Computer Science,1,3,Yes,1,98.74,84.81,6.06,78.14,0,Placed,Tier 1 (Product/MNC),11.69
+STU-2024-0568,Male,69.87,Central,69.27,State,Science,58.38,Computer Science,1,2,Yes,1,71.44,84.51,7.69,88.04,0,Placed,Tier 2 (Growth/Mid-sized),7.96
+STU-2024-0716,Male,80.41,State,62.76,Central,Science,72.31,Computer Science,2,3,No,3,90.05,58.08,5.07,75.27,0,Placed,Tier 2 (Growth/Mid-sized),8.06
+STU-2024-0207,Male,82.66,State,69.6,Central,Science,73.21,Electronics & Comm,0,6,Yes,3,79.12,46.54,6.75,71.68,0,Placed,Tier 3 (Service/Mass),4.54
+STU-2024-0379,Male,79.65,Central,75.4,State,Science,68.39,Computer Science,0,1,No,3,64.36,76.06,5.84,90.96,0,Not Placed,Not Applicable,0.0
+STU-2024-0159,Female,60.16,State,69.15,State,Science,74.86,Electronics & Comm,1,2,Yes,2,61.03,62.28,7.27,72.91,0,Placed,Tier 2 (Growth/Mid-sized),6.54
+STU-2024-1755,Male,82.05,Central,70.42,Central,Commerce,71.66,Information Technology,0,6,No,3,74.7,80.96,7.03,81.26,0,Placed,Tier 3 (Service/Mass),5.42
+STU-2024-0686,Male,54.01,Central,59.93,Central,Science,63.09,Other,1,2,Yes,1,48.5,27.35,6.3,78.78,0,Not Placed,Not Applicable,0.0
+STU-2024-0356,Male,63.44,State,60.13,ISC,Commerce,69.98,Computer Science,4,3,No,2,62.98,90.01,7.73,84.91,0,Placed,Tier 1 (Product/MNC),14.17
+STU-2024-0085,Male,82.99,Central,82.62,Central,Arts,78.26,Information Technology,4,1,No,3,83.43,76.24,8.25,96.82,2,Placed,Tier 1 (Product/MNC),13.45
+STU-2024-1783,Male,79.57,Central,79.87,State,Commerce,80.53,Information Technology,0,3,Yes,1,77.55,55.65,7.84,79.4,1,Placed,Tier 2 (Growth/Mid-sized),6.91
+STU-2024-1597,Male,73.6,Central,76.93,ISC,Science,69.92,Computer Science,1,5,No,1,78.88,80.61,4.61,76.33,0,Placed,Tier 2 (Growth/Mid-sized),6.56
+STU-2024-1616,Male,73.62,Central,65.91,Central,Arts,67.79,Computer Science,1,4,No,0,77.09,69.43,9.8,85.57,1,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-0727,Male,63.22,ICSE,61.69,Central,Science,50.0,Computer Science,1,2,No,1,85.61,46.68,7.22,85.03,1,Not Placed,Not Applicable,0.0
+STU-2024-1589,Male,73.86,Central,76.9,Central,Science,89.18,Information Technology,2,1,No,0,87.32,100.0,6.89,73.34,3,Placed,Tier 1 (Product/MNC),13.24
+STU-2024-1322,Male,63.52,Central,71.58,State,Science,74.55,Computer Science,3,2,No,3,56.04,79.31,4.39,74.84,3,Not Placed,Not Applicable,0.0
+STU-2024-1256,Female,47.53,State,54.32,Central,Commerce,61.16,Electronics & Comm,1,1,No,0,62.0,87.44,6.37,96.34,0,Not Placed,Not Applicable,0.0
+STU-2024-0619,Male,63.18,Central,68.84,State,Science,60.24,Commerce & Management,0,2,No,0,62.9,40.33,6.75,87.85,0,Not Placed,Not Applicable,0.0
+STU-2024-1089,Male,72.37,Central,86.49,Central,Science,85.98,Computer Science,0,2,No,1,43.53,82.41,5.71,77.83,0,Placed,Tier 3 (Service/Mass),4.26
+STU-2024-0893,Male,72.96,ICSE,67.02,State,Science,70.74,Information Technology,0,4,Yes,1,63.41,97.95,6.85,75.5,2,Not Placed,Not Applicable,0.0
+STU-2024-0250,Male,84.96,Central,77.0,Central,Arts,70.37,Commerce & Management,0,2,No,1,70.01,40.45,8.94,75.65,0,Not Placed,Not Applicable,0.0
+STU-2024-0089,Male,74.19,State,76.85,Central,Science,64.17,Electronics & Comm,3,4,No,1,67.17,68.7,4.64,77.62,0,Placed,Tier 2 (Growth/Mid-sized),7.6
+STU-2024-0635,Male,69.62,State,67.73,State,Science,74.45,Information Technology,0,3,Yes,0,66.63,84.62,5.36,91.22,1,Placed,Tier 3 (Service/Mass),5.45
+STU-2024-1744,Female,75.84,Central,69.57,Central,Commerce,64.74,Electronics & Comm,1,3,No,1,67.11,79.67,8.05,78.32,0,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-0116,Female,85.17,Central,76.34,Central,Science,76.05,Computer Science,1,5,No,3,87.13,56.0,5.4,71.4,0,Placed,Tier 2 (Growth/Mid-sized),5.69
+STU-2024-1408,Male,60.61,Central,69.53,ISC,Science,68.76,Electronics & Comm,2,4,No,2,84.6,88.7,6.82,92.51,2,Placed,Tier 1 (Product/MNC),10.52
+STU-2024-1174,Female,67.69,ICSE,68.54,Central,Commerce,81.69,Information Technology,1,4,No,4,74.25,75.0,5.8,79.95,1,Placed,Tier 2 (Growth/Mid-sized),6.99
+STU-2024-1057,Female,76.55,State,65.18,Central,Science,75.42,Computer Science,0,3,No,1,75.15,87.86,6.19,82.73,0,Placed,Tier 2 (Growth/Mid-sized),6.95
+STU-2024-0001,Female,77.88,State,65.08,State,Commerce,56.77,Information Technology,0,4,No,2,76.05,81.4,7.55,82.5,0,Placed,Tier 3 (Service/Mass),4.67
+STU-2024-0834,Female,78.59,State,77.31,State,Science,71.42,Other,1,3,Yes,2,56.04,60.97,7.05,83.74,0,Placed,Tier 2 (Growth/Mid-sized),5.5
+STU-2024-1687,Male,64.33,State,56.12,State,Science,67.0,Electronics & Comm,1,4,Yes,1,55.22,69.55,6.98,86.93,1,Not Placed,Not Applicable,0.0
+STU-2024-0844,Male,92.66,ICSE,79.68,State,Commerce,64.04,Computer Science,1,2,Yes,1,99.0,84.13,4.67,83.13,1,Placed,Tier 2 (Growth/Mid-sized),7.41
+STU-2024-1539,Female,73.81,Central,75.26,ISC,Science,70.97,Computer Science,0,2,No,0,79.91,69.85,3.9,89.46,2,Not Placed,Not Applicable,0.0
+STU-2024-0981,Female,68.81,Central,54.83,State,Science,68.24,Computer Science,3,5,No,4,65.13,87.86,7.82,77.06,0,Placed,Tier 2 (Growth/Mid-sized),8.11
+STU-2024-1694,Female,60.41,State,68.76,State,Arts,82.08,Information Technology,0,3,No,1,62.54,69.66,5.44,68.81,3,Not Placed,Not Applicable,0.0
+STU-2024-1587,Male,83.72,State,59.24,State,Science,66.47,Computer Science,1,3,No,2,60.82,91.84,5.18,90.72,1,Placed,Tier 2 (Growth/Mid-sized),6.49
+STU-2024-1175,Male,84.35,State,90.86,Central,Arts,80.1,Computer Science,1,3,No,0,87.28,100.0,5.81,88.97,0,Placed,Tier 1 (Product/MNC),16.98
+STU-2024-0997,Female,85.97,State,68.2,State,Science,66.14,Information Technology,0,4,Yes,2,72.08,87.11,6.46,82.13,0,Placed,Tier 2 (Growth/Mid-sized),5.5
+STU-2024-1156,Male,69.13,Central,71.42,Central,Commerce,85.4,Mechanical,2,4,No,0,69.31,87.83,6.6,80.76,0,Placed,Tier 1 (Product/MNC),14.55
+STU-2024-1203,Female,76.32,Central,67.47,State,Commerce,77.01,Computer Science,0,2,No,2,55.95,95.32,8.64,78.87,0,Placed,Tier 2 (Growth/Mid-sized),6.3
+STU-2024-1021,Female,64.54,Central,61.32,State,Commerce,58.21,Electronics & Comm,0,3,Yes,1,60.87,36.53,9.08,79.96,0,Not Placed,Not Applicable,0.0
+STU-2024-1583,Male,64.22,ICSE,64.66,Central,Commerce,66.25,Computer Science,3,2,No,2,65.81,62.56,8.72,76.61,0,Placed,Tier 2 (Growth/Mid-sized),7.9
+STU-2024-1368,Male,70.77,Central,62.66,State,Science,76.68,Computer Science,1,3,No,1,76.11,87.71,9.74,83.97,0,Placed,Tier 1 (Product/MNC),10.24
+STU-2024-0976,Female,64.65,Central,73.36,Central,Science,81.34,Other,0,3,No,2,76.43,76.04,6.22,73.92,1,Placed,Tier 2 (Growth/Mid-sized),7.66
+STU-2024-1075,Female,81.82,Central,76.7,State,Commerce,73.41,Information Technology,0,2,No,1,67.2,100.0,5.47,72.04,0,Placed,Tier 2 (Growth/Mid-sized),6.1
+STU-2024-0558,Male,87.38,State,80.24,State,Science,77.87,Computer Science,0,4,No,1,99.0,94.28,5.0,77.61,2,Placed,Tier 1 (Product/MNC),14.16
+STU-2024-1648,Female,75.23,State,80.83,Central,Science,68.73,Information Technology,0,6,No,0,57.87,100.0,7.55,97.29,0,Placed,Tier 2 (Growth/Mid-sized),8.14
+STU-2024-1735,Female,72.55,State,69.75,Central,Science,65.24,Electronics & Comm,1,3,No,1,56.1,61.4,7.2,99.5,0,Placed,Tier 3 (Service/Mass),5.21
+STU-2024-1248,Male,89.24,State,83.12,State,Commerce,71.98,Mechanical,0,2,Yes,2,66.03,58.43,8.53,81.52,0,Placed,Tier 3 (Service/Mass),5.2
+STU-2024-1791,Female,74.82,State,81.54,Central,Science,80.39,Computer Science,1,1,No,3,79.82,96.85,3.58,72.92,1,Placed,Tier 2 (Growth/Mid-sized),8.49
+STU-2024-0045,Female,80.53,Central,78.49,ISC,Commerce,63.46,Computer Science,0,2,No,3,68.88,46.15,7.65,77.82,2,Not Placed,Not Applicable,0.0
+STU-2024-0946,Male,72.98,State,76.54,Central,Science,70.93,Computer Science,0,2,No,1,70.56,86.38,3.61,82.1,0,Not Placed,Not Applicable,0.0
+STU-2024-1025,Female,83.87,ICSE,64.95,Central,Arts,67.21,Commerce & Management,1,4,Yes,2,69.57,52.23,5.77,68.07,0,Not Placed,Not Applicable,0.0
+STU-2024-0950,Male,78.78,Central,73.47,State,Commerce,71.07,Commerce & Management,1,3,No,3,68.94,53.11,7.39,81.67,0,Placed,Tier 3 (Service/Mass),4.77
+STU-2024-0582,Male,81.51,Central,64.53,ISC,Science,64.56,Computer Science,0,2,No,3,50.3,50.28,9.39,90.15,1,Not Placed,Not Applicable,0.0
+STU-2024-1133,Male,75.17,State,72.14,Central,Science,74.21,Information Technology,0,2,No,1,68.95,100.0,7.55,71.77,0,Placed,Tier 2 (Growth/Mid-sized),6.46
+STU-2024-0157,Male,79.06,State,67.21,State,Arts,71.95,Electronics & Comm,1,4,No,2,81.69,94.68,9.02,88.9,0,Placed,Tier 2 (Growth/Mid-sized),8.24
+STU-2024-0076,Male,86.7,State,63.99,Central,Arts,75.29,Computer Science,0,2,Yes,4,67.2,81.5,7.16,79.67,0,Placed,Tier 2 (Growth/Mid-sized),8.37
+STU-2024-0101,Female,85.18,State,71.22,State,Commerce,66.91,Computer Science,0,4,Yes,4,84.51,53.47,6.03,77.5,0,Placed,Tier 3 (Service/Mass),5.3
+STU-2024-0230,Male,69.91,State,79.92,ISC,Commerce,74.59,Information Technology,2,4,No,0,69.44,76.5,7.11,63.89,0,Placed,Tier 2 (Growth/Mid-sized),7.29
+STU-2024-0651,Male,62.35,State,64.18,State,Science,77.33,Information Technology,0,6,Yes,0,68.45,100.0,8.02,76.68,0,Placed,Tier 1 (Product/MNC),13.58
+STU-2024-1294,Male,72.86,ICSE,60.36,ISC,Science,59.91,Information Technology,1,3,No,2,73.9,84.34,7.95,77.37,0,Placed,Tier 2 (Growth/Mid-sized),7.82
+STU-2024-1445,Male,67.0,Central,82.17,Central,Commerce,85.74,Computer Science,1,2,No,0,72.4,100.0,7.22,76.75,0,Placed,Tier 1 (Product/MNC),10.67
+STU-2024-1440,Female,93.74,Central,81.38,State,Science,71.92,Computer Science,2,3,No,2,86.77,98.97,6.81,67.82,0,Placed,Tier 1 (Product/MNC),12.43
+STU-2024-1702,Female,85.23,State,61.98,Central,Commerce,75.04,Information Technology,1,3,Yes,2,58.24,97.02,8.33,75.47,1,Placed,Tier 1 (Product/MNC),10.07
+STU-2024-0169,Male,63.21,Central,65.93,Central,Commerce,59.3,Computer Science,0,3,Yes,0,41.47,58.65,7.47,78.14,0,Not Placed,Not Applicable,0.0
+STU-2024-0957,Female,91.0,ICSE,91.37,State,Science,71.09,Electronics & Comm,1,2,No,3,81.35,75.12,7.36,87.23,0,Placed,Tier 2 (Growth/Mid-sized),7.92
+STU-2024-0641,Female,77.04,ICSE,75.46,State,Science,59.88,Computer Science,1,4,No,1,67.52,71.76,7.89,78.5,1,Not Placed,Not Applicable,0.0
+STU-2024-1112,Male,81.21,Central,68.41,Central,Science,66.52,Information Technology,2,2,No,2,72.06,97.79,5.65,72.04,0,Placed,Tier 1 (Product/MNC),11.83
+STU-2024-1586,Female,89.24,State,79.33,Central,Arts,82.65,Computer Science,1,2,No,1,62.21,54.77,7.04,86.39,2,Not Placed,Not Applicable,0.0
+STU-2024-1749,Male,63.85,Central,70.27,State,Commerce,70.5,Computer Science,1,2,No,2,84.69,72.99,6.72,79.69,4,Not Placed,Not Applicable,0.0
+STU-2024-0548,Male,67.34,State,69.83,State,Science,67.94,Mechanical,1,1,No,1,58.87,53.3,6.4,72.13,1,Not Placed,Not Applicable,0.0
+STU-2024-1168,Male,67.41,Central,66.32,Central,Commerce,67.3,Information Technology,0,1,No,1,61.3,67.73,2.88,91.94,1,Not Placed,Not Applicable,0.0
+STU-2024-0926,Male,52.35,State,72.27,Central,Arts,84.03,Information Technology,0,3,No,0,66.25,88.16,4.48,68.25,0,Placed,Tier 2 (Growth/Mid-sized),6.72
+STU-2024-0679,Male,86.02,Central,82.47,Central,Science,70.98,Computer Science,1,2,No,2,85.67,63.42,9.22,84.82,0,Placed,Tier 2 (Growth/Mid-sized),6.36
+STU-2024-1446,Female,79.64,State,69.71,Central,Science,70.67,Electronics & Comm,1,4,No,2,67.62,57.73,8.54,76.17,0,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-0934,Female,73.57,Central,61.82,Central,Commerce,58.45,Information Technology,1,2,No,1,50.54,88.83,7.19,78.23,3,Not Placed,Not Applicable,0.0
+STU-2024-1072,Female,88.22,Central,84.3,State,Science,76.85,Computer Science,3,2,No,2,75.95,93.73,8.89,85.56,1,Placed,Tier 1 (Product/MNC),11.65
+STU-2024-1659,Male,93.69,Central,88.37,Central,Science,81.13,Information Technology,1,2,No,1,87.08,76.53,7.45,88.65,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-1223,Female,81.47,Central,85.19,Central,Science,73.1,Computer Science,0,1,Yes,1,67.56,74.2,5.68,79.3,0,Placed,Tier 2 (Growth/Mid-sized),6.14
+STU-2024-0567,Female,74.26,Central,66.34,State,Arts,69.99,Information Technology,0,2,No,1,64.97,69.6,5.38,78.32,0,Placed,Tier 3 (Service/Mass),3.27
+STU-2024-1232,Female,61.44,Central,67.38,Central,Science,66.7,Electronics & Comm,4,2,No,2,75.65,64.3,6.8,95.17,0,Placed,Tier 2 (Growth/Mid-sized),9.09
+STU-2024-1513,Female,81.58,State,75.55,State,Science,85.33,Computer Science,3,1,No,0,70.51,78.67,7.21,92.15,0,Placed,Tier 2 (Growth/Mid-sized),6.18
+STU-2024-0640,Female,68.01,State,59.7,Central,Science,81.63,Mechanical,2,3,No,0,66.38,49.78,6.3,93.83,0,Placed,Tier 2 (Growth/Mid-sized),6.62
+STU-2024-1276,Male,45.0,ICSE,45.0,State,Science,62.01,Electronics & Comm,1,3,No,1,57.42,52.73,6.95,85.41,0,Not Placed,Not Applicable,0.0
+STU-2024-0650,Male,76.48,State,68.7,Central,Commerce,63.43,Computer Science,0,3,Yes,1,80.07,93.19,6.36,82.56,0,Placed,Tier 2 (Growth/Mid-sized),8.85
+STU-2024-0165,Male,67.29,State,54.28,Central,Arts,59.45,Computer Science,1,4,No,2,79.25,49.85,6.45,91.48,3,Not Placed,Not Applicable,0.0
+STU-2024-1717,Male,68.19,State,59.79,Central,Science,72.93,Commerce & Management,1,2,Yes,1,79.05,73.75,9.06,81.99,0,Placed,Tier 2 (Growth/Mid-sized),9.01
+STU-2024-0713,Female,66.95,Central,62.94,Central,Commerce,53.6,Electronics & Comm,1,2,No,1,70.04,50.5,6.37,75.78,0,Not Placed,Not Applicable,0.0
+STU-2024-0856,Male,67.72,ICSE,51.26,State,Science,53.1,Information Technology,3,2,Yes,1,59.55,61.43,4.61,74.74,1,Not Placed,Not Applicable,0.0
+STU-2024-1336,Female,71.53,State,68.74,State,Science,58.43,Information Technology,0,2,No,2,61.66,78.82,4.81,85.32,0,Not Placed,Not Applicable,0.0
+STU-2024-1134,Female,71.18,ICSE,68.3,State,Science,65.13,Computer Science,2,4,No,2,58.45,80.38,8.81,82.15,0,Placed,Tier 2 (Growth/Mid-sized),9.3
+STU-2024-1286,Female,78.82,Central,71.23,Central,Commerce,75.23,Mechanical,4,3,Yes,2,61.93,49.21,7.11,94.49,0,Placed,Tier 2 (Growth/Mid-sized),6.95
+STU-2024-0266,Male,55.35,ICSE,68.8,State,Commerce,70.1,Computer Science,1,4,No,1,66.58,87.5,8.28,84.1,0,Placed,Tier 2 (Growth/Mid-sized),8.56
+STU-2024-0478,Female,66.73,Central,56.68,Central,Science,65.42,Computer Science,0,5,Yes,3,58.09,97.58,8.27,94.93,0,Placed,Tier 2 (Growth/Mid-sized),7.24
+STU-2024-1264,Female,73.81,ICSE,72.62,State,Science,61.84,Information Technology,1,4,No,1,93.52,63.67,6.09,70.43,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-0566,Female,81.93,State,69.37,State,Science,65.94,Other,3,2,No,0,64.73,67.77,6.93,69.44,0,Placed,Tier 2 (Growth/Mid-sized),7.76
+STU-2024-0787,Female,66.42,Central,55.82,Central,Arts,58.15,Information Technology,0,2,Yes,1,54.6,70.95,5.6,82.47,0,Not Placed,Not Applicable,0.0
+STU-2024-0536,Male,72.53,State,82.1,Central,Commerce,70.53,Computer Science,0,2,No,1,66.7,65.82,5.34,85.24,0,Not Placed,Not Applicable,0.0
+STU-2024-1246,Male,99.0,ICSE,99.0,ISC,Science,83.84,Computer Science,0,3,Yes,1,83.15,76.27,6.74,73.39,4,Placed,Tier 1 (Product/MNC),12.25
+STU-2024-1049,Female,78.41,State,91.84,Central,Commerce,95.03,Commerce & Management,1,3,No,1,89.2,65.39,7.44,80.21,0,Placed,Tier 2 (Growth/Mid-sized),7.96
+STU-2024-1678,Male,79.09,ICSE,82.1,State,Commerce,77.39,Commerce & Management,0,1,No,2,76.98,30.95,7.34,90.68,0,Placed,Tier 3 (Service/Mass),3.2
+STU-2024-0964,Male,77.32,Central,72.63,State,Science,68.96,Computer Science,1,2,Yes,0,73.49,80.96,7.76,84.93,0,Placed,Tier 2 (Growth/Mid-sized),6.94
+STU-2024-0450,Female,65.62,Central,55.58,State,Science,61.78,Computer Science,0,2,No,0,59.88,51.29,9.06,84.87,0,Not Placed,Not Applicable,0.0
+STU-2024-1269,Male,74.17,State,64.8,Central,Science,74.29,Electronics & Comm,2,3,No,3,59.55,70.59,7.07,65.6,0,Placed,Tier 2 (Growth/Mid-sized),7.77
+STU-2024-1427,Male,70.91,State,76.67,State,Science,68.11,Computer Science,0,3,No,1,67.44,95.24,5.75,87.57,0,Placed,Tier 2 (Growth/Mid-sized),8.44
+STU-2024-0631,Female,74.42,State,73.42,Central,Science,64.15,Other,1,2,No,1,83.31,48.37,4.52,76.76,0,Not Placed,Not Applicable,0.0
+STU-2024-1701,Female,65.83,Central,80.93,State,Science,62.21,Computer Science,1,2,Yes,2,67.58,81.14,7.81,80.41,0,Placed,Tier 2 (Growth/Mid-sized),8.55
+STU-2024-0377,Female,50.57,Central,45.0,Central,Commerce,72.33,Information Technology,1,2,No,1,40.5,89.89,7.02,85.59,4,Not Placed,Not Applicable,0.0
+STU-2024-1404,Male,83.03,State,71.29,Central,Science,57.78,Computer Science,0,1,No,1,66.27,94.31,5.8,79.15,0,Not Placed,Not Applicable,0.0
+STU-2024-1335,Female,70.35,State,65.86,Central,Science,68.23,Electronics & Comm,1,1,No,2,78.09,58.0,7.27,86.09,0,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-0502,Female,82.98,State,74.08,State,Commerce,68.5,Electronics & Comm,2,2,No,0,81.99,39.87,6.73,82.5,0,Placed,Tier 3 (Service/Mass),4.44
+STU-2024-0963,Male,80.93,Central,75.98,Central,Science,73.49,Computer Science,1,3,Yes,4,83.68,88.72,8.24,83.99,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-0466,Female,70.99,Central,78.75,State,Science,66.07,Information Technology,1,3,No,2,69.0,67.9,8.02,80.89,1,Not Placed,Not Applicable,0.0
+STU-2024-0110,Female,93.32,ICSE,84.06,Central,Science,71.43,Mechanical,0,6,No,1,94.92,77.16,6.2,73.64,4,Placed,Tier 2 (Growth/Mid-sized),7.0
+STU-2024-1473,Male,68.65,State,65.69,State,Science,69.54,Commerce & Management,1,4,Yes,3,74.76,69.89,5.85,85.16,1,Placed,Tier 2 (Growth/Mid-sized),8.64
+STU-2024-1371,Male,75.72,ICSE,68.67,Central,Science,72.36,Electronics & Comm,0,3,No,1,71.75,63.96,7.33,74.56,0,Placed,Tier 3 (Service/Mass),4.97
+STU-2024-0959,Male,66.85,State,71.08,Central,Science,59.91,Information Technology,2,3,No,0,84.56,78.69,7.2,74.87,0,Placed,Tier 2 (Growth/Mid-sized),7.13
+STU-2024-0301,Female,72.88,State,67.62,State,Science,63.13,Commerce & Management,1,2,No,3,74.27,49.42,5.16,78.36,0,Not Placed,Not Applicable,0.0
+STU-2024-1757,Male,67.43,State,65.15,State,Arts,61.41,Computer Science,1,4,No,1,75.72,66.43,6.26,78.74,0,Placed,Tier 3 (Service/Mass),4.82
+STU-2024-1552,Male,82.23,Central,93.01,State,Commerce,69.81,Computer Science,3,3,No,0,89.12,92.62,4.77,86.75,0,Placed,Tier 1 (Product/MNC),10.48
+STU-2024-0131,Male,87.45,State,80.16,State,Science,72.38,Information Technology,0,3,No,2,99.0,70.12,8.77,75.94,0,Placed,Tier 2 (Growth/Mid-sized),6.88
+STU-2024-1708,Male,77.34,State,68.67,State,Science,70.59,Information Technology,2,2,No,3,65.03,100.0,7.32,87.47,0,Placed,Tier 2 (Growth/Mid-sized),8.13
+STU-2024-0782,Female,67.04,State,80.45,Central,Science,76.73,Commerce & Management,3,4,No,0,45.06,57.69,6.78,75.35,0,Placed,Tier 3 (Service/Mass),3.8
+STU-2024-0690,Male,70.98,State,67.11,State,Science,56.73,Computer Science,0,2,No,2,71.0,62.32,7.47,90.88,1,Not Placed,Not Applicable,0.0
+STU-2024-1003,Male,70.67,Central,66.41,Central,Arts,53.96,Mechanical,0,3,No,0,67.08,58.46,4.77,87.32,0,Not Placed,Not Applicable,0.0
+STU-2024-0935,Female,65.97,Central,64.47,Central,Science,67.52,Mechanical,2,4,No,2,86.6,61.19,5.87,87.55,0,Placed,Tier 2 (Growth/Mid-sized),7.98
+STU-2024-1686,Male,68.81,State,71.17,Central,Arts,63.12,Commerce & Management,1,2,No,1,51.43,36.92,6.74,83.73,0,Not Placed,Not Applicable,0.0
+STU-2024-1340,Male,85.38,Central,79.0,Central,Science,75.0,Computer Science,0,2,No,0,84.47,63.3,5.96,84.88,4,Not Placed,Not Applicable,0.0
+STU-2024-1778,Male,97.29,Central,86.34,Central,Commerce,80.41,Electronics & Comm,0,2,No,0,96.1,67.13,7.48,80.2,3,Not Placed,Not Applicable,0.0
+STU-2024-1635,Female,89.45,Central,87.86,Central,Commerce,82.95,Information Technology,1,3,No,1,88.01,80.16,10.0,81.16,0,Placed,Tier 2 (Growth/Mid-sized),6.99
+STU-2024-1242,Male,81.87,ICSE,62.86,State,Science,73.63,Electronics & Comm,2,3,Yes,0,67.82,59.17,7.43,86.43,0,Placed,Tier 2 (Growth/Mid-sized),6.92
+STU-2024-1282,Male,81.79,Central,71.23,Central,Science,65.07,Other,0,2,No,3,78.49,66.23,9.33,82.64,0,Placed,Tier 3 (Service/Mass),5.11
+STU-2024-0824,Female,71.05,ICSE,51.04,State,Science,58.83,Electronics & Comm,2,2,No,0,48.45,63.18,6.47,83.78,0,Not Placed,Not Applicable,0.0
+STU-2024-1380,Male,72.62,State,57.79,ISC,Science,80.32,Computer Science,2,2,Yes,1,51.57,78.99,5.94,97.92,0,Placed,Tier 2 (Growth/Mid-sized),8.7
+STU-2024-0669,Male,73.22,State,55.02,Central,Arts,57.2,Electronics & Comm,1,3,No,0,48.64,71.4,6.06,77.25,2,Not Placed,Not Applicable,0.0
+STU-2024-1610,Male,88.02,Central,95.28,Central,Science,82.67,Commerce & Management,2,4,Yes,0,72.05,46.57,6.91,90.68,1,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-1318,Male,65.55,State,70.3,Central,Commerce,83.14,Commerce & Management,1,2,No,0,70.89,51.0,5.89,92.13,0,Placed,Tier 2 (Growth/Mid-sized),7.45
+STU-2024-1353,Male,94.6,Central,75.79,State,Science,71.99,Other,3,1,No,2,73.41,50.23,4.27,68.28,0,Placed,Tier 2 (Growth/Mid-sized),5.5
+STU-2024-0524,Female,71.8,Central,67.09,Central,Science,62.38,Computer Science,2,1,No,2,88.98,88.33,7.5,86.74,0,Placed,Tier 1 (Product/MNC),13.82
+STU-2024-0814,Female,56.14,State,51.22,ISC,Science,55.06,Mechanical,2,2,No,0,56.24,32.45,8.61,75.28,0,Not Placed,Not Applicable,0.0
+STU-2024-0132,Female,69.65,State,56.54,ISC,Commerce,65.23,Information Technology,0,2,No,1,68.47,93.18,7.73,76.04,1,Placed,Tier 2 (Growth/Mid-sized),6.42
+STU-2024-1077,Male,75.85,Central,63.18,Central,Science,64.74,Electronics & Comm,0,4,No,1,66.94,57.43,7.34,98.01,0,Placed,Tier 3 (Service/Mass),3.99
+STU-2024-0285,Female,70.37,State,58.91,State,Commerce,73.97,Computer Science,3,6,No,0,60.84,65.49,6.85,93.44,0,Placed,Tier 2 (Growth/Mid-sized),6.74
+STU-2024-0549,Female,75.28,Central,80.06,Central,Commerce,69.4,Information Technology,2,4,No,2,74.48,95.51,8.05,97.28,0,Placed,Tier 2 (Growth/Mid-sized),8.59
+STU-2024-1372,Female,89.11,State,62.13,Central,Science,74.06,Computer Science,0,2,No,0,84.55,90.52,6.32,72.91,0,Placed,Tier 2 (Growth/Mid-sized),8.12
+STU-2024-0137,Female,81.86,Central,80.16,State,Science,86.07,Other,1,4,No,2,94.38,68.21,8.98,81.4,0,Placed,Tier 2 (Growth/Mid-sized),9.19
+STU-2024-0191,Female,71.75,Central,88.12,Central,Commerce,73.35,Computer Science,0,6,No,3,81.79,65.5,4.85,91.75,0,Placed,Tier 3 (Service/Mass),4.15
+STU-2024-1457,Male,83.19,Central,75.54,State,Science,74.6,Computer Science,0,3,No,1,70.18,81.73,6.86,89.74,0,Placed,Tier 2 (Growth/Mid-sized),6.37
+STU-2024-1672,Female,73.48,Central,69.49,State,Science,66.69,Computer Science,2,3,No,2,60.02,80.22,6.52,92.55,1,Placed,Tier 3 (Service/Mass),5.33
+STU-2024-1607,Female,70.28,State,61.82,State,Commerce,81.42,Information Technology,2,3,Yes,2,68.84,90.09,4.68,84.47,0,Placed,Tier 2 (Growth/Mid-sized),8.33
+STU-2024-1009,Female,83.68,Central,76.47,Central,Science,70.6,Computer Science,1,2,Yes,1,65.65,71.41,5.22,65.76,1,Not Placed,Not Applicable,0.0
+STU-2024-1443,Male,79.47,ICSE,73.35,ISC,Science,69.0,Computer Science,0,2,No,0,89.53,62.86,5.96,99.12,0,Placed,Tier 2 (Growth/Mid-sized),6.25
+STU-2024-1333,Male,66.27,Central,73.86,State,Arts,78.78,Other,0,3,No,1,56.81,75.78,6.16,83.92,0,Placed,Tier 2 (Growth/Mid-sized),7.92
+STU-2024-1143,Female,67.41,State,66.6,State,Science,65.0,Computer Science,0,4,No,1,53.56,90.84,4.06,61.2,1,Not Placed,Not Applicable,0.0
+STU-2024-1170,Male,66.55,Central,74.63,Central,Science,79.04,Information Technology,0,1,No,1,64.83,77.09,6.9,87.38,0,Placed,Tier 3 (Service/Mass),5.49
+STU-2024-1718,Female,93.54,Central,74.19,Central,Science,67.3,Computer Science,1,3,No,1,76.62,95.02,6.66,81.46,0,Placed,Tier 2 (Growth/Mid-sized),9.49
+STU-2024-1644,Male,52.75,Central,55.61,State,Science,58.15,Computer Science,0,4,No,0,60.89,73.34,6.8,80.02,0,Not Placed,Not Applicable,0.0
+STU-2024-1490,Male,57.91,Central,58.79,State,Science,72.12,Computer Science,3,4,No,1,47.24,95.38,4.75,73.55,0,Placed,Tier 2 (Growth/Mid-sized),8.96
+STU-2024-0577,Female,66.0,ICSE,79.35,State,Arts,73.45,Electronics & Comm,1,2,No,1,52.8,62.17,5.42,77.27,0,Placed,Tier 2 (Growth/Mid-sized),6.8
+STU-2024-0237,Male,71.76,ICSE,56.96,State,Science,57.42,Electronics & Comm,1,5,Yes,1,49.42,75.86,5.97,93.98,0,Placed,Tier 3 (Service/Mass),3.58
+STU-2024-1096,Male,93.01,Central,94.95,State,Science,80.55,Computer Science,3,3,No,2,76.81,93.24,5.99,78.7,2,Placed,Tier 1 (Product/MNC),11.32
+STU-2024-1518,Female,72.98,Central,72.61,ISC,Science,88.81,Information Technology,1,5,Yes,1,70.06,90.73,6.59,99.5,0,Placed,Tier 1 (Product/MNC),14.03
+STU-2024-1546,Male,81.36,State,68.88,Central,Science,74.42,Mechanical,0,3,No,0,85.15,69.86,5.21,79.56,0,Placed,Tier 2 (Growth/Mid-sized),9.06
+STU-2024-0941,Male,67.41,Central,63.92,State,Science,58.41,Information Technology,0,1,No,1,63.51,84.03,8.29,95.2,0,Placed,Tier 2 (Growth/Mid-sized),7.24
+STU-2024-1287,Male,73.36,Central,90.13,State,Commerce,66.71,Computer Science,1,3,Yes,1,66.5,99.92,6.48,98.64,0,Placed,Tier 1 (Product/MNC),12.64
+STU-2024-0178,Female,60.54,ICSE,49.54,Central,Science,51.88,Computer Science,2,5,No,0,52.07,62.89,7.01,75.0,0,Not Placed,Not Applicable,0.0
+STU-2024-0647,Male,78.73,Central,96.28,Central,Commerce,75.77,Computer Science,1,2,No,3,74.77,90.49,6.92,68.38,1,Placed,Tier 2 (Growth/Mid-sized),8.28
+STU-2024-0744,Male,69.88,Central,74.94,State,Science,75.2,Electronics & Comm,0,3,Yes,1,71.9,73.34,8.18,60.0,2,Placed,Tier 2 (Growth/Mid-sized),6.28
+STU-2024-1088,Female,78.96,ICSE,90.4,Central,Science,71.28,Computer Science,0,3,No,0,87.3,75.8,7.03,79.43,1,Placed,Tier 2 (Growth/Mid-sized),7.38
+STU-2024-0192,Male,79.35,State,79.18,Central,Science,88.5,Information Technology,1,3,No,2,62.63,69.14,5.95,74.83,1,Placed,Tier 2 (Growth/Mid-sized),8.57
+STU-2024-0197,Female,72.06,Central,74.08,Central,Science,81.33,Computer Science,1,2,No,1,66.92,62.06,5.82,71.9,0,Placed,Tier 3 (Service/Mass),5.47
+STU-2024-0128,Male,67.16,State,57.11,ISC,Commerce,69.26,Computer Science,1,2,No,0,39.76,63.79,6.7,77.77,0,Not Placed,Not Applicable,0.0
+STU-2024-0050,Male,89.93,State,81.87,State,Science,65.87,Computer Science,0,2,No,3,87.34,89.66,7.22,85.86,0,Placed,Tier 2 (Growth/Mid-sized),6.42
+STU-2024-1054,Male,77.87,Central,61.8,Central,Science,65.94,Electronics & Comm,1,5,No,1,61.17,65.31,5.9,75.79,0,Placed,Tier 3 (Service/Mass),4.17
+STU-2024-1225,Male,70.85,Central,63.24,State,Science,62.2,Information Technology,0,2,No,1,55.91,78.35,7.99,98.77,0,Placed,Tier 3 (Service/Mass),4.36
+STU-2024-0996,Male,71.84,State,69.67,Central,Science,72.97,Mechanical,1,5,No,1,72.66,66.58,4.55,81.65,0,Placed,Tier 2 (Growth/Mid-sized),6.92
+STU-2024-0243,Male,77.39,State,69.58,Central,Science,55.62,Computer Science,2,1,Yes,0,65.84,76.34,9.54,83.14,0,Placed,Tier 2 (Growth/Mid-sized),7.1
+STU-2024-1389,Female,94.14,Central,99.0,State,Science,80.41,Electronics & Comm,3,4,Yes,2,84.78,25.88,4.18,78.7,0,Placed,Tier 2 (Growth/Mid-sized),6.95
+STU-2024-1144,Female,64.24,Central,59.54,Central,Science,71.92,Information Technology,1,1,No,2,53.1,100.0,5.83,72.78,0,Placed,Tier 2 (Growth/Mid-sized),9.39
+STU-2024-0882,Female,68.95,State,67.03,Central,Science,50.0,Electronics & Comm,1,3,No,2,66.35,67.79,6.11,94.97,0,Placed,Tier 3 (Service/Mass),5.19
+STU-2024-0387,Female,58.58,State,63.31,State,Science,83.87,Commerce & Management,1,2,No,2,67.32,85.31,4.38,84.38,2,Placed,Tier 2 (Growth/Mid-sized),8.79
+STU-2024-1569,Male,80.46,Central,63.42,Central,Commerce,69.51,Information Technology,1,4,No,1,73.27,53.73,6.36,74.35,2,Not Placed,Not Applicable,0.0
+STU-2024-1789,Female,88.32,State,76.65,Central,Science,67.77,Computer Science,0,3,No,0,54.97,81.36,7.85,85.99,0,Placed,Tier 3 (Service/Mass),4.95
+STU-2024-0148,Male,76.58,ICSE,68.88,State,Science,50.0,Information Technology,0,3,Yes,1,59.68,78.6,5.5,85.47,0,Placed,Tier 3 (Service/Mass),5.32
+STU-2024-0350,Male,62.79,Central,61.1,State,Commerce,59.15,Information Technology,0,5,No,3,60.13,72.75,5.64,70.01,1,Not Placed,Not Applicable,0.0
+STU-2024-1151,Male,86.28,Central,72.13,Central,Science,72.99,Information Technology,0,2,No,1,67.77,81.43,6.82,74.44,1,Not Placed,Not Applicable,0.0
+STU-2024-1477,Male,67.97,State,56.6,Central,Science,58.51,Computer Science,1,3,No,0,43.89,72.23,9.39,71.73,0,Not Placed,Not Applicable,0.0
+STU-2024-1680,Male,82.68,State,81.8,Central,Commerce,72.49,Computer Science,1,3,No,1,78.22,85.13,5.85,76.72,2,Placed,Tier 1 (Product/MNC),11.35
+STU-2024-0729,Male,75.68,State,74.2,ISC,Science,77.0,Mechanical,1,2,Yes,0,81.82,48.41,6.63,98.62,0,Placed,Tier 3 (Service/Mass),4.41
+STU-2024-1015,Male,82.4,Central,88.36,State,Commerce,84.52,Computer Science,2,2,No,2,73.5,93.51,5.47,82.57,0,Placed,Tier 2 (Growth/Mid-sized),9.47
+STU-2024-1524,Female,62.48,State,62.78,State,Science,62.44,Information Technology,0,5,No,4,52.87,81.98,6.91,89.87,0,Placed,Tier 3 (Service/Mass),4.6
+STU-2024-0776,Female,58.08,State,69.82,State,Commerce,71.45,Information Technology,1,4,Yes,1,58.86,74.84,6.07,67.99,0,Placed,Tier 2 (Growth/Mid-sized),7.13
+STU-2024-1060,Female,77.05,Central,76.41,Central,Science,71.06,Electronics & Comm,0,4,No,1,65.99,60.08,6.76,83.8,0,Not Placed,Not Applicable,0.0
+STU-2024-1664,Male,66.97,Central,63.44,Central,Science,71.72,Information Technology,0,1,No,2,70.25,73.34,5.81,87.37,4,Not Placed,Not Applicable,0.0
+STU-2024-0904,Male,86.81,State,68.21,State,Science,64.84,Computer Science,1,3,Yes,1,69.79,83.28,6.14,84.5,4,Not Placed,Not Applicable,0.0
+STU-2024-0168,Female,69.11,State,69.75,State,Science,69.86,Information Technology,1,3,No,0,64.56,100.0,8.13,77.26,0,Placed,Tier 2 (Growth/Mid-sized),6.85
+STU-2024-1774,Female,90.85,Central,90.14,Central,Commerce,71.23,Computer Science,0,3,No,3,90.02,89.14,5.07,84.82,4,Not Placed,Not Applicable,0.0
+STU-2024-0120,Female,60.85,ICSE,71.38,Central,Commerce,75.8,Computer Science,1,3,Yes,0,66.9,84.57,4.35,95.75,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-1302,Female,72.06,Central,61.45,Central,Arts,65.26,Computer Science,3,5,No,0,73.59,59.91,9.41,85.24,0,Placed,Tier 2 (Growth/Mid-sized),6.94
+STU-2024-1658,Female,64.13,ICSE,62.31,Central,Science,66.13,Information Technology,0,3,No,2,65.73,100.0,6.69,83.57,0,Placed,Tier 2 (Growth/Mid-sized),8.43
+STU-2024-1577,Female,60.37,Central,71.68,Central,Commerce,72.84,Computer Science,1,2,No,1,46.3,85.33,9.06,79.08,1,Placed,Tier 3 (Service/Mass),4.34
+STU-2024-1083,Female,85.07,State,82.84,Central,Commerce,69.47,Information Technology,0,3,No,2,68.48,78.79,7.67,87.13,0,Placed,Tier 3 (Service/Mass),5.11
+STU-2024-1050,Male,74.66,Central,74.45,State,Arts,77.91,Electronics & Comm,1,2,No,1,55.43,62.29,8.53,64.53,0,Placed,Tier 2 (Growth/Mid-sized),7.92
+STU-2024-0215,Female,66.29,Central,74.09,ISC,Commerce,72.04,Mechanical,0,3,No,1,71.94,92.83,5.12,99.5,0,Placed,Tier 3 (Service/Mass),5.48
+STU-2024-0172,Male,77.69,ICSE,65.1,State,Science,67.82,Computer Science,1,1,Yes,0,64.77,74.77,5.39,86.63,1,Not Placed,Not Applicable,0.0
+STU-2024-1623,Female,67.8,State,66.1,Central,Science,64.44,Mechanical,2,3,No,1,79.55,53.78,6.8,82.01,1,Not Placed,Not Applicable,0.0
+STU-2024-0058,Female,72.79,Central,66.57,Central,Science,81.85,Information Technology,1,3,No,2,72.69,89.69,7.26,72.46,0,Placed,Tier 1 (Product/MNC),10.05
+STU-2024-0269,Male,91.38,Central,95.33,State,Science,78.89,Computer Science,1,2,No,0,72.11,72.17,7.5,72.99,0,Placed,Tier 2 (Growth/Mid-sized),7.28
+STU-2024-1413,Female,88.16,State,90.88,Central,Science,77.49,Computer Science,0,6,No,0,65.11,61.86,6.77,78.01,1,Not Placed,Not Applicable,0.0
+STU-2024-1347,Male,80.03,State,79.45,State,Science,75.08,Computer Science,4,2,Yes,1,54.36,65.43,8.52,89.28,4,Placed,Tier 2 (Growth/Mid-sized),8.82
+STU-2024-1492,Female,77.66,State,84.01,State,Science,51.69,Commerce & Management,0,2,Yes,2,91.69,57.2,7.8,92.65,0,Placed,Tier 3 (Service/Mass),5.3
+STU-2024-0306,Male,85.57,State,78.78,ISC,Science,78.39,Computer Science,0,3,Yes,2,81.39,55.77,6.72,71.26,1,Placed,Tier 2 (Growth/Mid-sized),6.52
+STU-2024-1398,Female,62.83,Central,67.0,ISC,Science,73.26,Computer Science,1,4,No,1,62.86,100.0,6.4,71.97,0,Placed,Tier 1 (Product/MNC),13.9
+STU-2024-0718,Male,87.3,Central,76.94,ISC,Arts,61.81,Other,3,2,No,1,82.26,56.01,8.06,90.6,1,Not Placed,Not Applicable,0.0
+STU-2024-0347,Female,61.9,Central,61.24,State,Science,75.37,Computer Science,0,2,No,2,77.47,89.1,6.11,86.36,2,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-1307,Female,87.9,Central,82.12,Central,Commerce,84.27,Computer Science,1,1,No,1,66.8,84.83,5.34,85.63,2,Not Placed,Not Applicable,0.0
+STU-2024-1085,Female,80.78,State,63.01,Central,Commerce,64.98,Mechanical,0,1,Yes,2,68.97,88.01,5.91,76.51,0,Placed,Tier 3 (Service/Mass),5.18
+STU-2024-0726,Male,65.18,Central,65.21,State,Commerce,70.24,Information Technology,0,3,No,0,58.72,84.28,6.53,79.99,0,Not Placed,Not Applicable,0.0
+STU-2024-1675,Female,74.54,State,73.98,Central,Science,85.82,Computer Science,0,2,No,0,85.67,92.05,8.02,83.02,0,Placed,Tier 2 (Growth/Mid-sized),7.95
+STU-2024-0710,Male,77.6,State,69.3,State,Science,80.57,Computer Science,2,3,No,2,66.36,98.07,7.1,78.02,1,Placed,Tier 1 (Product/MNC),14.23
+STU-2024-0852,Male,71.74,Central,80.02,ISC,Arts,70.77,Mechanical,0,1,No,1,89.38,61.5,5.45,83.64,0,Not Placed,Not Applicable,0.0
+STU-2024-1056,Female,89.59,ICSE,94.0,State,Science,75.06,Information Technology,0,2,No,0,97.59,83.72,7.8,84.11,1,Placed,Tier 2 (Growth/Mid-sized),9.46
+STU-2024-0642,Female,86.61,Central,89.6,Central,Commerce,72.59,Electronics & Comm,3,2,No,2,81.43,78.44,7.48,78.64,1,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-0056,Female,81.19,ICSE,72.28,Central,Science,64.84,Commerce & Management,1,2,No,2,68.74,45.71,5.71,94.42,0,Not Placed,Not Applicable,0.0
+STU-2024-1585,Female,64.9,Central,52.1,State,Commerce,58.55,Electronics & Comm,0,1,No,2,61.9,60.09,8.16,93.84,1,Not Placed,Not Applicable,0.0
+STU-2024-0367,Female,76.67,ICSE,91.59,Central,Science,76.75,Computer Science,2,5,No,3,99.0,80.31,8.03,66.7,0,Placed,Tier 1 (Product/MNC),15.88
+STU-2024-0988,Male,81.31,State,68.05,Central,Science,63.58,Computer Science,2,3,No,2,67.29,95.17,6.5,85.75,2,Not Placed,Not Applicable,0.0
+STU-2024-1029,Female,79.03,State,76.61,Central,Science,78.12,Other,2,3,Yes,3,60.55,67.45,6.9,75.04,1,Placed,Tier 2 (Growth/Mid-sized),8.0
+STU-2024-0064,Female,60.39,State,73.66,Central,Science,64.87,Computer Science,1,2,No,3,72.7,69.64,5.69,74.99,0,Placed,Tier 2 (Growth/Mid-sized),6.42
+STU-2024-0071,Male,63.47,Central,53.56,State,Science,57.45,Commerce & Management,3,2,Yes,4,50.97,51.82,7.09,71.28,0,Placed,Tier 3 (Service/Mass),4.64
+STU-2024-0298,Female,71.09,State,78.02,Central,Science,64.15,Commerce & Management,0,2,Yes,1,76.81,55.17,9.72,64.38,3,Not Placed,Not Applicable,0.0
+STU-2024-0746,Male,84.47,Central,91.54,Central,Arts,91.73,Information Technology,1,3,No,0,67.14,69.23,9.05,73.26,0,Placed,Tier 2 (Growth/Mid-sized),6.2
+STU-2024-0778,Male,86.06,State,78.55,Central,Science,67.58,Information Technology,1,3,No,1,67.89,84.46,5.31,86.26,0,Placed,Tier 2 (Growth/Mid-sized),6.84
+STU-2024-1058,Male,77.79,Central,68.42,State,Science,67.91,Computer Science,2,3,No,0,80.81,95.42,8.35,82.98,0,Placed,Tier 2 (Growth/Mid-sized),9.03
+STU-2024-0061,Female,76.83,State,63.79,Central,Commerce,58.77,Other,2,1,Yes,0,63.12,63.94,6.74,93.6,0,Placed,Tier 2 (Growth/Mid-sized),8.5
+STU-2024-0920,Male,81.81,State,89.63,State,Science,65.2,Electronics & Comm,0,3,No,1,84.9,63.52,6.4,83.44,1,Not Placed,Not Applicable,0.0
+STU-2024-1670,Female,75.74,ICSE,71.16,State,Science,78.35,Information Technology,1,3,No,3,77.41,87.0,5.4,96.1,1,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-1637,Male,73.96,Central,71.26,Central,Science,59.6,Commerce & Management,2,6,No,1,84.43,61.84,7.22,70.81,2,Not Placed,Not Applicable,0.0
+STU-2024-0079,Male,69.81,State,75.78,Central,Science,74.17,Information Technology,1,3,No,1,82.67,72.53,7.06,99.5,4,Placed,Tier 2 (Growth/Mid-sized),5.86
+STU-2024-1465,Female,79.25,Central,72.36,State,Science,72.81,Commerce & Management,0,3,No,2,69.19,69.38,8.7,89.67,0,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-1748,Male,78.71,ICSE,76.09,State,Science,71.14,Information Technology,2,2,No,1,94.21,81.85,8.28,93.15,0,Placed,Tier 1 (Product/MNC),13.31
+STU-2024-0431,Female,86.32,Central,91.72,Central,Arts,66.42,Computer Science,0,3,No,0,65.17,58.44,2.95,76.82,0,Not Placed,Not Applicable,0.0
+STU-2024-0117,Female,67.1,State,64.2,State,Science,60.83,Commerce & Management,0,6,Yes,3,86.35,46.29,5.81,84.97,1,Placed,Tier 3 (Service/Mass),3.2
+STU-2024-0112,Male,64.42,Central,78.92,Central,Science,63.22,Mechanical,0,4,No,1,47.75,44.55,6.56,89.57,1,Not Placed,Not Applicable,0.0
+STU-2024-1785,Male,65.99,ICSE,56.68,Central,Commerce,55.63,Computer Science,0,2,No,3,40.81,48.77,6.77,85.07,2,Not Placed,Not Applicable,0.0
+STU-2024-0523,Male,66.71,Central,58.94,State,Science,63.33,Information Technology,1,2,No,4,56.69,82.03,5.16,90.75,0,Placed,Tier 2 (Growth/Mid-sized),7.15
+STU-2024-1793,Male,86.74,State,68.36,State,Science,63.71,Computer Science,1,2,No,0,74.11,94.82,9.26,67.8,0,Placed,Tier 2 (Growth/Mid-sized),9.24
+STU-2024-0136,Male,76.02,Central,70.99,State,Arts,72.27,Commerce & Management,1,3,No,1,79.62,62.63,6.88,87.97,0,Placed,Tier 3 (Service/Mass),4.82
+STU-2024-1035,Male,83.25,State,61.9,State,Science,50.32,Electronics & Comm,1,2,No,3,73.19,46.57,8.14,69.65,0,Not Placed,Not Applicable,0.0
+STU-2024-1110,Male,77.31,State,67.62,Central,Commerce,80.21,Mechanical,0,3,No,4,53.88,62.0,6.53,85.3,0,Placed,Tier 3 (Service/Mass),4.68
+STU-2024-1249,Female,85.32,ICSE,66.73,Central,Science,65.48,Commerce & Management,1,4,Yes,1,66.75,50.25,7.11,69.0,0,Placed,Tier 3 (Service/Mass),5.0
+STU-2024-1557,Female,92.26,State,85.29,ISC,Science,79.58,Information Technology,0,1,Yes,1,70.95,77.23,7.6,69.5,1,Placed,Tier 2 (Growth/Mid-sized),6.85
+STU-2024-0490,Female,70.49,Central,54.45,Central,Science,56.46,Computer Science,3,2,No,1,76.6,60.64,7.73,84.79,0,Placed,Tier 2 (Growth/Mid-sized),6.46
+STU-2024-0283,Male,81.72,State,84.77,State,Science,68.15,Electronics & Comm,1,1,Yes,1,52.67,27.99,8.69,80.65,2,Not Placed,Not Applicable,0.0
+STU-2024-0571,Male,65.48,Central,62.18,Central,Commerce,71.97,Computer Science,1,4,Yes,1,82.19,100.0,7.32,89.94,0,Placed,Tier 1 (Product/MNC),15.7
+STU-2024-0553,Male,72.58,Central,78.53,State,Science,62.95,Electronics & Comm,1,3,Yes,2,76.81,85.8,6.05,95.17,0,Placed,Tier 2 (Growth/Mid-sized),8.13
+STU-2024-1754,Female,66.12,State,72.53,ISC,Arts,63.81,Information Technology,1,3,Yes,0,71.79,54.54,6.92,89.62,3,Not Placed,Not Applicable,0.0
+STU-2024-1614,Male,74.3,Central,78.57,Central,Science,70.41,Computer Science,0,2,No,1,48.38,99.72,5.96,73.87,4,Not Placed,Not Applicable,0.0
+STU-2024-1690,Male,71.2,State,81.34,State,Science,72.51,Information Technology,1,2,Yes,0,71.1,92.69,8.49,83.64,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-0373,Male,70.93,State,66.28,State,Science,69.77,Information Technology,1,2,No,2,64.01,65.11,5.44,74.41,1,Not Placed,Not Applicable,0.0
+STU-2024-1462,Male,79.0,State,73.21,Central,Science,61.6,Computer Science,2,3,No,1,73.35,70.71,7.07,72.06,0,Placed,Tier 2 (Growth/Mid-sized),9.16
+STU-2024-1037,Male,66.75,State,70.76,Central,Commerce,65.77,Electronics & Comm,1,1,No,1,58.79,74.53,5.95,79.57,2,Not Placed,Not Applicable,0.0
+STU-2024-1500,Female,69.39,Central,73.54,State,Science,62.22,Information Technology,0,1,No,1,62.09,75.86,5.03,75.98,1,Not Placed,Not Applicable,0.0
+STU-2024-1046,Male,66.31,State,50.17,State,Commerce,63.47,Information Technology,0,2,Yes,0,59.82,88.5,5.77,83.98,0,Placed,Tier 2 (Growth/Mid-sized),6.23
+STU-2024-0895,Female,87.5,ICSE,79.57,Central,Science,59.18,Computer Science,2,3,No,1,99.0,82.61,6.65,89.81,0,Placed,Tier 1 (Product/MNC),11.12
+STU-2024-0258,Male,78.85,Central,62.37,Central,Science,70.12,Computer Science,1,1,Yes,0,57.59,80.89,4.54,76.27,0,Placed,Tier 2 (Growth/Mid-sized),6.54
+STU-2024-0542,Male,80.49,Central,77.8,Central,Science,77.15,Computer Science,2,2,No,2,79.92,82.95,3.38,81.3,2,Not Placed,Not Applicable,0.0
+STU-2024-0176,Male,72.66,Central,66.02,State,Commerce,70.63,Information Technology,1,2,No,1,75.34,82.64,9.13,99.5,3,Not Placed,Not Applicable,0.0
+STU-2024-0067,Male,74.27,ICSE,71.37,State,Science,72.19,Information Technology,2,3,No,1,74.99,70.24,5.97,79.25,0,Placed,Tier 3 (Service/Mass),5.01
+STU-2024-0626,Male,99.0,State,93.25,Central,Science,83.94,Other,0,3,No,1,77.88,89.3,4.59,70.8,1,Placed,Tier 2 (Growth/Mid-sized),8.01
+STU-2024-0007,Female,70.44,Central,57.45,State,Commerce,52.5,Commerce & Management,2,1,No,1,50.7,43.46,3.63,79.55,0,Not Placed,Not Applicable,0.0
+STU-2024-1235,Male,81.99,ICSE,71.09,Central,Commerce,64.83,Information Technology,2,3,No,2,71.91,78.3,8.66,77.11,0,Placed,Tier 2 (Growth/Mid-sized),8.0
+STU-2024-1030,Male,73.71,State,56.42,State,Science,72.91,Mechanical,1,3,No,3,66.51,46.48,6.41,84.69,0,Placed,Tier 3 (Service/Mass),3.74
+STU-2024-1053,Male,79.79,State,79.75,State,Commerce,75.68,Computer Science,0,3,No,1,82.32,95.73,7.17,94.25,0,Placed,Tier 2 (Growth/Mid-sized),8.37
+STU-2024-0674,Female,94.29,State,92.94,State,Arts,86.26,Information Technology,0,5,No,3,96.75,61.2,6.05,87.66,1,Placed,Tier 3 (Service/Mass),5.43
+STU-2024-1068,Female,86.12,State,75.48,State,Arts,73.62,Other,0,1,No,2,81.48,70.58,5.76,82.21,0,Placed,Tier 3 (Service/Mass),4.81
+STU-2024-0720,Female,79.38,Central,84.97,State,Science,85.28,Computer Science,1,5,No,0,71.5,90.99,6.38,76.79,0,Placed,Tier 1 (Product/MNC),15.37
+STU-2024-1564,Female,66.78,State,63.25,Central,Science,65.22,Information Technology,1,2,Yes,1,66.14,65.49,5.49,86.5,0,Placed,Tier 2 (Growth/Mid-sized),6.4
+STU-2024-1790,Male,91.18,Central,82.23,Central,Commerce,86.14,Computer Science,0,4,Yes,1,75.54,93.92,7.77,79.23,1,Placed,Tier 2 (Growth/Mid-sized),8.31
+STU-2024-1295,Male,74.16,Central,67.35,Central,Science,67.9,Computer Science,0,2,Yes,2,62.29,100.0,8.46,77.45,2,Placed,Tier 2 (Growth/Mid-sized),8.55
+STU-2024-0146,Male,77.44,ICSE,76.04,Central,Science,78.28,Computer Science,0,3,Yes,0,76.96,99.31,8.31,77.85,0,Placed,Tier 1 (Product/MNC),11.94
+STU-2024-1309,Male,80.93,Central,84.29,Central,Science,72.44,Computer Science,2,2,Yes,2,71.46,85.29,7.65,89.4,1,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-1467,Male,56.73,Central,54.26,ISC,Science,61.65,Information Technology,1,2,No,0,73.15,82.0,6.64,87.24,0,Not Placed,Not Applicable,0.0
+STU-2024-1259,Male,71.18,Central,59.79,Central,Science,58.02,Information Technology,0,5,No,1,54.51,95.14,6.7,92.97,0,Placed,Tier 2 (Growth/Mid-sized),7.95
+STU-2024-1017,Female,91.08,Central,74.81,State,Commerce,58.7,Information Technology,1,2,No,0,91.88,55.37,5.01,76.7,0,Not Placed,Not Applicable,0.0
+STU-2024-1571,Male,63.94,ICSE,63.34,Central,Science,59.24,Computer Science,1,2,No,0,54.54,79.04,8.17,80.7,0,Placed,Tier 3 (Service/Mass),4.02
+STU-2024-0638,Female,65.28,State,52.89,State,Arts,68.35,Computer Science,0,2,Yes,0,75.92,62.63,7.54,72.02,2,Not Placed,Not Applicable,0.0
+STU-2024-0316,Male,94.51,ICSE,77.69,State,Science,67.99,Computer Science,1,3,No,2,75.75,94.23,5.38,75.52,0,Placed,Tier 2 (Growth/Mid-sized),7.34
+STU-2024-1200,Female,89.54,Central,87.12,State,Science,78.0,Mechanical,1,2,Yes,0,82.95,39.66,6.42,77.41,0,Placed,Tier 3 (Service/Mass),4.78
+STU-2024-0697,Female,78.93,State,76.93,Central,Science,79.94,Computer Science,1,2,Yes,1,61.51,88.51,5.26,78.09,0,Placed,Tier 1 (Product/MNC),13.42
+STU-2024-1115,Female,56.25,Central,45.0,State,Science,54.17,Information Technology,0,2,No,1,50.29,52.09,6.72,94.12,0,Not Placed,Not Applicable,0.0
+STU-2024-0874,Male,89.15,Central,84.09,State,Arts,76.58,Information Technology,3,3,No,2,68.03,97.28,6.27,96.8,0,Placed,Tier 1 (Product/MNC),10.68
+STU-2024-0182,Female,71.88,Central,76.09,State,Science,70.34,Information Technology,0,2,No,3,79.32,74.97,5.29,60.0,0,Placed,Tier 2 (Growth/Mid-sized),6.13
+STU-2024-1207,Female,73.0,State,63.46,ISC,Science,70.41,Computer Science,2,6,No,1,73.63,85.24,6.32,83.44,0,Placed,Tier 2 (Growth/Mid-sized),8.45
+STU-2024-0821,Male,74.99,ICSE,78.79,Central,Science,80.88,Information Technology,2,2,No,1,83.98,70.8,3.05,90.61,0,Placed,Tier 2 (Growth/Mid-sized),8.37
+STU-2024-1647,Male,89.34,State,77.63,Central,Commerce,76.33,Information Technology,0,2,No,0,99.0,87.84,9.62,88.55,0,Placed,Tier 1 (Product/MNC),11.92
+STU-2024-1214,Male,70.3,State,56.31,Central,Science,64.73,Electronics & Comm,1,3,No,1,86.98,72.49,6.14,77.12,0,Placed,Tier 2 (Growth/Mid-sized),7.09
+STU-2024-1456,Male,59.65,State,66.82,Central,Science,71.27,Commerce & Management,1,2,Yes,2,53.16,63.01,6.46,70.36,1,Not Placed,Not Applicable,0.0
+STU-2024-1169,Female,67.14,State,69.09,State,Commerce,68.22,Commerce & Management,0,4,Yes,2,68.74,90.11,10.0,75.39,1,Placed,Tier 2 (Growth/Mid-sized),8.96
+STU-2024-0907,Male,59.57,ICSE,58.66,State,Commerce,79.14,Electronics & Comm,0,4,No,1,70.92,41.33,9.52,88.44,2,Not Placed,Not Applicable,0.0
+STU-2024-1693,Male,69.64,State,73.02,Central,Commerce,79.29,Computer Science,1,3,No,1,57.9,77.79,8.09,92.07,0,Placed,Tier 3 (Service/Mass),5.35
+STU-2024-1521,Male,80.49,Central,62.2,State,Science,59.39,Information Technology,0,3,No,4,79.81,70.66,5.08,88.95,2,Not Placed,Not Applicable,0.0
+STU-2024-1556,Female,73.02,Central,72.1,Central,Science,84.54,Electronics & Comm,0,2,No,1,60.84,88.33,7.36,76.42,0,Placed,Tier 3 (Service/Mass),4.88
+STU-2024-1126,Male,67.49,State,88.05,State,Commerce,86.72,Computer Science,3,2,No,1,79.75,73.71,4.86,86.76,0,Placed,Tier 2 (Growth/Mid-sized),9.21
+STU-2024-0370,Female,74.05,State,64.26,Central,Commerce,69.24,Computer Science,0,2,Yes,1,72.74,78.23,6.99,92.03,0,Placed,Tier 3 (Service/Mass),5.35
+STU-2024-1122,Male,63.27,Central,73.5,ISC,Science,56.28,Commerce & Management,1,2,No,2,53.42,32.83,4.38,82.58,1,Not Placed,Not Applicable,0.0
+STU-2024-0592,Male,86.01,State,86.05,Central,Commerce,77.96,Mechanical,1,1,No,1,82.78,86.31,10.0,75.51,1,Placed,Tier 1 (Product/MNC),12.87
+STU-2024-1092,Female,86.21,ICSE,84.71,Central,Science,84.69,Information Technology,2,3,No,3,70.91,85.51,7.21,71.68,0,Placed,Tier 2 (Growth/Mid-sized),6.52
+STU-2024-1525,Female,73.55,State,53.18,State,Commerce,55.88,Electronics & Comm,0,4,No,3,79.24,63.05,6.72,85.91,4,Not Placed,Not Applicable,0.0
+STU-2024-1692,Female,63.69,Central,56.66,Central,Arts,60.58,Other,2,2,Yes,1,46.5,77.33,5.54,75.15,2,Not Placed,Not Applicable,0.0
+STU-2024-1192,Male,70.08,State,65.08,State,Science,75.23,Other,0,2,No,1,52.15,75.49,4.71,93.69,0,Not Placed,Not Applicable,0.0
+STU-2024-0556,Male,71.96,State,65.08,State,Commerce,64.36,Computer Science,1,3,Yes,2,56.83,54.14,6.64,76.63,2,Not Placed,Not Applicable,0.0
+STU-2024-1429,Female,71.92,State,59.27,State,Science,50.0,Electronics & Comm,1,1,Yes,1,64.33,49.01,6.78,70.63,0,Not Placed,Not Applicable,0.0
+STU-2024-0348,Male,89.6,ICSE,90.5,State,Science,72.38,Mechanical,3,2,No,1,73.36,68.24,6.03,80.17,0,Placed,Tier 2 (Growth/Mid-sized),6.93
+STU-2024-0108,Male,83.81,Central,68.85,Central,Science,73.04,Computer Science,2,4,Yes,1,88.17,89.08,5.86,66.76,0,Placed,Tier 2 (Growth/Mid-sized),7.89
+STU-2024-0546,Male,83.92,Central,77.12,Central,Commerce,70.83,Computer Science,1,3,No,1,74.45,72.06,7.22,72.79,0,Placed,Tier 2 (Growth/Mid-sized),9.5
+STU-2024-0040,Female,71.02,State,82.16,Central,Science,70.22,Computer Science,0,3,No,1,75.9,72.74,5.63,86.57,0,Placed,Tier 2 (Growth/Mid-sized),6.38
+STU-2024-1485,Female,70.97,Central,80.4,Central,Arts,83.98,Commerce & Management,0,2,No,1,66.25,75.46,7.17,85.22,0,Placed,Tier 2 (Growth/Mid-sized),6.24
+STU-2024-1379,Female,65.12,Central,56.26,State,Arts,58.94,Electronics & Comm,0,2,No,0,40.91,54.3,8.54,78.55,0,Not Placed,Not Applicable,0.0
+STU-2024-1631,Male,89.04,State,90.4,Central,Science,96.04,Information Technology,1,2,No,0,92.67,100.0,6.43,77.51,0,Placed,Tier 1 (Product/MNC),14.69
+STU-2024-1250,Female,77.11,Central,72.32,Central,Arts,64.99,Information Technology,3,1,No,2,91.92,60.59,8.36,76.12,3,Not Placed,Not Applicable,0.0
+STU-2024-1538,Female,66.34,ICSE,66.99,State,Science,72.81,Computer Science,1,3,No,2,51.26,83.67,5.71,74.22,0,Not Placed,Not Applicable,0.0
+STU-2024-0637,Female,77.19,State,68.0,Central,Arts,73.18,Commerce & Management,2,2,No,1,66.08,34.8,7.04,99.5,0,Placed,Tier 3 (Service/Mass),5.26
+STU-2024-0921,Male,69.36,State,75.01,State,Science,72.94,Electronics & Comm,0,1,No,2,55.39,69.93,4.77,85.24,2,Not Placed,Not Applicable,0.0
+STU-2024-1023,Female,62.66,Central,68.81,State,Science,85.97,Information Technology,0,3,Yes,1,70.17,75.06,7.39,77.4,3,Placed,Tier 3 (Service/Mass),5.01
+STU-2024-1770,Female,77.22,Central,64.91,State,Commerce,64.79,Information Technology,0,5,No,3,86.29,78.74,6.03,81.11,3,Placed,Tier 2 (Growth/Mid-sized),6.58
+STU-2024-0701,Male,85.35,Central,71.05,Central,Commerce,66.75,Mechanical,1,3,No,0,85.77,57.34,5.76,84.66,0,Placed,Tier 2 (Growth/Mid-sized),6.96
+STU-2024-0231,Male,57.17,Central,64.67,Central,Science,70.97,Computer Science,1,4,No,3,79.73,95.63,5.69,69.99,1,Placed,Tier 2 (Growth/Mid-sized),9.48
+STU-2024-0661,Male,77.52,ICSE,59.4,State,Arts,66.31,Information Technology,0,2,Yes,0,63.35,87.83,7.05,79.95,0,Placed,Tier 2 (Growth/Mid-sized),6.79
+STU-2024-0289,Male,83.13,State,81.3,Central,Science,83.66,Information Technology,0,1,No,1,82.69,100.0,8.14,89.05,0,Placed,Tier 2 (Growth/Mid-sized),7.18
+STU-2024-1496,Female,61.04,ICSE,60.74,State,Science,72.25,Information Technology,2,2,No,1,38.19,75.91,7.22,84.25,0,Not Placed,Not Applicable,0.0
+STU-2024-0927,Male,73.14,State,88.12,State,Science,79.19,Commerce & Management,0,3,Yes,1,70.72,63.0,5.12,87.52,2,Not Placed,Not Applicable,0.0
+STU-2024-0017,Male,86.31,State,83.31,Central,Commerce,68.28,Information Technology,0,2,Yes,0,60.7,60.9,7.65,70.49,0,Placed,Tier 3 (Service/Mass),4.88
+STU-2024-0329,Female,74.34,Central,66.3,State,Science,68.29,Computer Science,1,3,Yes,2,60.98,75.5,5.85,81.08,0,Placed,Tier 2 (Growth/Mid-sized),7.69
+STU-2024-0809,Male,64.35,State,65.92,State,Science,66.76,Computer Science,0,3,No,1,69.32,87.1,10.0,85.51,0,Placed,Tier 2 (Growth/Mid-sized),5.94
+STU-2024-0205,Male,73.95,Central,60.29,State,Science,77.15,Information Technology,2,2,No,2,59.49,77.67,9.47,94.48,0,Placed,Tier 2 (Growth/Mid-sized),9.24
+STU-2024-1461,Female,74.95,Central,80.89,State,Science,77.88,Computer Science,2,4,No,1,77.82,60.94,5.44,79.51,0,Placed,Tier 2 (Growth/Mid-sized),8.32
+STU-2024-1179,Male,72.31,State,78.1,State,Science,69.88,Computer Science,1,4,No,0,75.32,76.54,8.85,95.59,0,Placed,Tier 2 (Growth/Mid-sized),7.58
+STU-2024-0195,Male,78.11,Central,79.08,Central,Science,71.34,Electronics & Comm,1,4,No,1,64.93,57.21,5.66,79.12,1,Not Placed,Not Applicable,0.0
+STU-2024-1632,Female,66.05,State,70.75,State,Commerce,75.18,Computer Science,2,4,No,0,68.34,62.84,7.81,82.57,1,Placed,Tier 2 (Growth/Mid-sized),5.5
+STU-2024-1563,Female,81.81,State,81.58,ISC,Commerce,71.46,Mechanical,0,4,No,1,63.53,49.49,7.61,92.74,1,Placed,Tier 3 (Service/Mass),3.2
+STU-2024-0330,Male,50.63,Central,66.0,ISC,Arts,80.78,Computer Science,1,5,Yes,1,64.59,85.37,7.42,78.11,0,Placed,Tier 2 (Growth/Mid-sized),6.99
+STU-2024-1164,Male,62.77,State,78.08,Central,Commerce,71.48,Electronics & Comm,2,2,Yes,0,68.64,42.52,6.29,72.09,0,Not Placed,Not Applicable,0.0
+STU-2024-0048,Male,71.84,State,64.15,State,Science,71.66,Information Technology,0,2,No,3,56.47,62.25,4.0,78.94,0,Not Placed,Not Applicable,0.0
+STU-2024-0256,Female,60.33,Central,58.38,ISC,Science,56.29,Computer Science,1,3,No,1,48.46,75.8,8.45,76.51,0,Placed,Tier 3 (Service/Mass),5.28
+STU-2024-0623,Female,63.61,State,76.08,Central,Commerce,72.82,Mechanical,1,2,Yes,2,77.79,61.31,7.31,91.68,0,Placed,Tier 2 (Growth/Mid-sized),6.23
+STU-2024-0060,Male,54.9,Central,65.59,State,Science,60.68,Commerce & Management,0,2,Yes,0,61.08,54.06,5.32,69.88,0,Not Placed,Not Applicable,0.0
+STU-2024-1317,Female,62.84,Central,66.34,Central,Science,69.97,Electronics & Comm,1,2,No,2,66.08,62.61,6.16,76.05,0,Placed,Tier 3 (Service/Mass),4.95
+STU-2024-0149,Male,71.85,Central,74.48,Central,Science,83.26,Commerce & Management,0,2,No,0,64.02,45.73,9.24,78.19,1,Not Placed,Not Applicable,0.0
+STU-2024-1236,Male,75.95,State,65.27,ISC,Science,75.36,Electronics & Comm,2,3,No,2,62.22,70.52,7.9,84.94,3,Not Placed,Not Applicable,0.0
+STU-2024-0090,Male,81.4,Central,81.94,State,Commerce,73.3,Computer Science,0,3,No,4,57.94,58.47,7.27,79.32,1,Placed,Tier 3 (Service/Mass),4.59
+STU-2024-1776,Male,64.71,Central,77.53,State,Science,76.19,Computer Science,3,3,No,2,55.45,94.29,7.63,77.26,0,Placed,Tier 1 (Product/MNC),12.47
+STU-2024-0315,Male,64.02,Central,62.2,Central,Science,57.23,Electronics & Comm,0,4,No,0,52.05,64.98,5.21,81.47,0,Not Placed,Not Applicable,0.0
+STU-2024-1237,Male,78.45,State,76.25,Central,Science,72.41,Computer Science,1,3,Yes,1,78.15,69.93,3.83,95.52,0,Placed,Tier 2 (Growth/Mid-sized),8.49
+STU-2024-1451,Female,69.49,ICSE,64.34,Central,Science,72.59,Computer Science,0,3,No,0,45.68,70.26,8.46,87.34,0,Placed,Tier 3 (Service/Mass),5.5
+STU-2024-1479,Male,77.7,Central,73.18,State,Commerce,71.33,Other,0,3,No,1,50.03,77.21,7.53,73.43,0,Placed,Tier 3 (Service/Mass),5.5

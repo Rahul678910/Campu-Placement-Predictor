@@ -1,0 +1,10 @@
+{
+  "test_accuracy": 0.8833,
+  "test_precision": 0.9265,
+  "test_recall": 0.9044,
+  "test_f1": 0.9153,
+  "test_roc_auc": 0.9627,
+  "salary_mae": 1.407,
+  "salary_rmse": 1.827,
+  "salary_r2": 0.555
+}

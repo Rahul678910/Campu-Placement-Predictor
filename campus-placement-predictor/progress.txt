@@ -1,0 +1,143 @@
+# Campus Placement Predictor - Progress Journal
+
+## Project Details
+- **Project:** Campus Placement Predictor (AI/ML-Based Predictive Analytics)
+- **Organization / Internship:** Lazyskool (YuvaBot Pvt. Ltd.)
+- **Duration:** 3 Months
+- **Development Tool:** Google Antigravity
+- **Methodology:** Ralph Loop Autonomous Execution & Verification
+
+---
+
+### Iteration 1 - 2026-11-09T19:28:00+05:30
+- **Completed Task:** Task 1: Realistic Student Placement Dataset Generation Engine (`src/data_generator.py`)
+- **Modified / Created Files:**
+  - `PRD.md`: Initialized comprehensive product requirements and task backlog.
+  - `progress.txt`: Initialized append-only progress tracker.
+  - `requirements.txt`: Specified runtime and development dependencies.
+  - `.gitignore`: Added Python and environment ignore rules.
+  - `src/__init__.py`: Package init.
+  - `src/data_generator.py`: Implemented statistical student record generator with realistic domain noise.
+  - `data/raw/student_placement_data.csv`: Generated 1,800 records (69.8% placement rate).
+  - `tests/__init__.py`, `tests/test_data_generator.py`: Validation tests for distributions, bounds, and consistency.
+- **Key Technical Decisions:**
+  - Standardized multi-stage scoring for student placement probability combining continuous academic, test, and discrete extracurricular factors with realistic Gaussian noise.
+  - Implemented multi-tier salary logic for placed candidates (Tier 1, Tier 2, Tier 3) ensuring zero leakage for unplaced students.
+- **Verification Results:**
+  - `pytest tests/test_data_generator.py`: 2 passed in 0.51s.
+- **Next Recommended Task:** Task 2: Data Preprocessing, Cleaning & Validation Pipeline (`src/data_processing.py`).
+
+### Iteration 2 - 2026-11-09T19:50:00+05:30
+- **Completed Task:** Task 2: Data Preprocessing, Cleaning & Validation Pipeline (`src/data_processing.py`)
+- **Modified / Created Files:**
+  - `src/data_processing.py`: Added Pydantic schema validation (`StudentProfileSchema`), null value handling, boundary enforcement, and stratified 80/20 train/test splitting.
+  - `data/processed/train.csv`, `data/processed/test.csv`, `data/processed/train.parquet`, `data/processed/test.parquet`: Generated partitioned datasets.
+  - `tests/test_data_processing.py`: Unit tests for schema validation, missing data imputation, and split integrity.
+- **Key Technical Decisions:**
+  - Enforced strong type constraints and field boundaries using Pydantic.
+  - Applied stratified splitting to preserve placement distribution ratio across training and testing splits.
+- **Verification Results:**
+  - `pytest tests/test_data_processing.py`: 3 passed in 7.09s.
+- **Next Recommended Task:** Task 3: Feature Engineering & Transformation Pipeline (`src/feature_engineering.py`).
+
+### Iteration 3 - 2026-11-09T19:51:30+05:30
+- **Completed Task:** Task 3: Feature Engineering & Transformation Pipeline (`src/feature_engineering.py`)
+- **Modified / Created Files:**
+  - `src/feature_engineering.py`: Implemented `DomainFeatureExtractor` (Academic Consistency, Technical Quotient, Experience Score, Holistic Readiness Score) and `build_preprocessor()` with `ColumnTransformer`.
+  - `models/preprocessor.joblib`, `models/feature_names.json`: Serialized preprocessor and extracted 32 engineered feature definitions.
+  - `tests/test_feature_engineering.py`: Unit tests for feature extraction calculations, shape assertions, and transformation integrity.
+- **Key Technical Decisions:**
+  - Engineered domain composite indicators capturing multi-dimensional student performance while preventing target leakage.
+  - One-hot encoded categorical variables with `drop='first'` and `handle_unknown='ignore'` for robust inference.
+- **Verification Results:**
+  - `pytest tests/test_feature_engineering.py`: 2 passed in 1.56s.
+- **Next Recommended Task:** Task 4: Exploratory Data Analysis (EDA) & Correlation Analytics (`reports/eda_insights.md`, figures, and notebooks).
+
+### Iteration 4 - 2026-11-09T19:53:30+05:30
+- **Completed Task:** Task 4: Exploratory Data Analysis (EDA) & Correlation Analytics (`reports/eda_insights.md` & `notebooks/`)
+- **Modified / Created Files:**
+  - `src/eda_analysis.py`: Automated analysis script generating correlation matrices, group aggregations, and markdown synthesis.
+  - `reports/figures/correlation_heatmap.png`: Statistical correlation heatmap.
+  - `reports/figures/degree_vs_placement.png`: Barplot of placement ratios across degrees.
+  - `reports/figures/coding_vs_aptitude_scatter.png`: Scatterplot demonstrating the critical cutoff zones.
+  - `reports/figures/backlogs_impact.png`: Backlogs attrition analysis chart.
+  - `reports/figures/salary_distribution_by_tier.png`: Boxplot of compensation packages by company tier.
+  - `reports/eda_insights.md`: Formal insights report with empirical statistics and recommendations.
+  - `notebooks/eda_placement_analysis.ipynb`: Interactive Jupyter analysis notebook.
+- **Key Technical Decisions:**
+  - Automated report generation with dynamic statistics extraction for reproducibility.
+  - Applied seaborn clean palettes and publication DPI formatting.
+- **Verification Results:**
+  - `python -m src.eda_analysis` ran cleanly with 5 saved figures and markdown output verified.
+- **Next Recommended Task:** Task 5: Model Training, Cross-Validation & Hyperparameter Tuning (`src/train_model.py`).
+
+### Iteration 5 - 2026-11-09T19:54:50+05:30
+- **Completed Task:** Task 5: Model Training, Cross-Validation & Hyperparameter Tuning (`src/train_model.py`)
+- **Modified / Created Files:**
+  - `src/train_model.py`: Multi-model training harness with Stratified 5-Fold cross-validation (Logistic Regression, Random Forest, Gradient Boosting, XGBoost) and companion salary regressor.
+  - `models/best_placement_model.joblib`: Serialized top-performing classifier (Logistic Regression, ROC-AUC: 0.9562).
+  - `models/salary_regressor.joblib`: Serialized compensation prediction model.
+  - `models/training_summary.json`: Benchmark metrics and model comparison log.
+- **Key Technical Decisions:**
+  - Evaluated candidate algorithms on identical Stratified 5-Fold splits using multi-metric scoring (ROC-AUC, Precision, Recall, F1, Accuracy).
+  - Trained dual-headed system: primary binary classifier for placement probability + secondary regression head for salary package estimation.
+- **Verification Results:**
+  - Logistic Regression achieved 0.9562 ROC-AUC, 88.33% accuracy, and 0.9135 F1-score across 5-fold CV.
+- **Next Recommended Task:** Task 6: Model Evaluation & SHAP Interpretability (`src/evaluate_model.py`).
+
+### Iteration 6 - 2026-11-09T19:55:40+05:30
+- **Completed Task:** Task 6: Model Evaluation & SHAP Interpretability (`src/evaluate_model.py`)
+- **Modified / Created Files:**
+  - `src/evaluate_model.py`: Test holdout evaluation script calculating ROC-AUC, Precision, Recall, F1, Confusion Matrix, and Salary MAE/RMSE.
+  - `models/evaluation_metrics.json`: Stored quantitative benchmark results.
+  - `reports/figures/confusion_matrix.png`: Confusion matrix chart.
+  - `reports/figures/roc_curve.png`: ROC curve chart (AUC = 0.9627).
+  - `reports/figures/feature_importance.png`: Feature predictive weights plot.
+  - `reports/model_evaluation.md`: Formal performance evaluation documentation.
+- **Key Technical Decisions:**
+  - Validated model on strictly held-out test data (360 student records).
+  - Evaluated dual metrics: discrete placement classification and continuous salary regression.
+- **Verification Results:**
+  - Test Accuracy: 88.33%, Precision: 92.65%, Recall: 90.44%, F1: 0.9153, ROC-AUC: 0.9627.
+- **Next Recommended Task:** Task 7: Interactive Streamlit Dashboard (`src/app.py`).
+
+### Iteration 7 - 2026-11-09T19:57:15+05:30
+- **Completed Task:** Task 7: Interactive Streamlit Dashboard (`src/app.py`)
+- **Modified / Created Files:**
+  - `src/app.py`: 4-tab responsive web application (Live Predictor with Plotly Gauge, Cohort Analytics with filterable explorer, Career Guidance AI, and Model Benchmarks).
+  - `run.bat`: Windows one-click application launcher.
+  - `run.sh`: Linux/macOS application launcher script.
+- **Key Technical Decisions:**
+  - Integrated interactive Plotly gauge and probability meters for real-time student evaluation.
+  - Implemented multi-tier salary projection and tailored career intervention recommendations.
+- **Verification Results:**
+  - Validated module import and artifact loading cleanly.
+- **Next Recommended Task:** Task 8: Comprehensive Unit Testing Suite (`tests/`).
+
+### Iteration 8 - 2026-11-09T19:57:50+05:30
+- **Completed Task:** Task 8: Comprehensive Unit Testing Suite (`tests/`)
+- **Modified / Created Files:**
+  - `tests/test_model_inference.py`: Implemented full end-to-end model inference, edge case validation (top candidate vs high-risk candidate), and benchmark assertion tests.
+- **Key Technical Decisions:**
+  - Evaluated high-performing profiles vs high-risk profiles against probability boundaries and salary ranges.
+  - Asserted benchmark constraints on holdout accuracy (>= 85%) and ROC-AUC (>= 0.90).
+- **Verification Results:**
+  - `pytest tests/`: 10 passed in 1.58s across 4 test modules.
+- **Next Recommended Task:** Task 9: Internship Project Report, GitHub Polish & Final Artifacts.
+
+### Iteration 9 - 2026-11-09T19:59:30+05:30
+- **Completed Task:** Task 9: Internship Project Report, GitHub Polish & Final Artifacts
+- **Modified / Created Files:**
+  - `README.md`: Comprehensive, GitHub-ready project presentation with badges, architecture flowchart (Mermaid), benchmark tables, folder tree, and setup guide.
+  - `.github/workflows/ci.yml`: GitHub Actions automated CI testing workflow.
+  - `LICENSE`: MIT License.
+  - `CONTRIBUTING.md`: Contribution instructions and PR guidelines.
+  - `CODE_OF_CONDUCT.md`: Contributor covenant.
+  - `.gitattributes`: Git line ending and binary normalization rules.
+  - `reports/internship_final_report.md`: Formal 3-month internship technical report for Lazyskool (YuvaBot Pvt. Ltd.).
+- **Key Technical Decisions:**
+  - Structured the repository for production-grade open source standards on GitHub.
+  - Configured CI pipeline with Python 3.11 and automated test execution.
+- **Verification Results:**
+  - All 9 backlog tasks completed, verified, documented, and committed.
+- **Next Recommended Task:** Project execution complete. Ready for GitHub push and portfolio presentation.
