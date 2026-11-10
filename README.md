@@ -203,7 +203,9 @@ All 10 tests validate data integrity, boundary checks, feature transforms, and m
 
 | Correlation Heatmap | Coding vs Aptitude | ROC Curve |
 |:---:|:---:|:---:|
-| ![Correlation Heatmap](reports/figures/correlation_heatmap.png) | ![Coding vs Aptitude](campus-placement-predictor/Coding Vs Aptitude.png) | ![ROC Curve](reports/figures/roc_curve.png) |
+| ![Correlation Heatmap](reports/figures/correlation_heatmap.png) | 
+![Coding vs Aptitude](campus-placement-predictor/Coding Vs Aptitude.png) |
+![ROC Curve](campus-placement-predictor/ROC.png) |
 
 ---
 
