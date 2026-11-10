@@ -74,7 +74,7 @@ pytest tests/ -v
 
 <p align="center">
   <strong>Coding vs. Aptitude &amp; Compensation Tier</strong><br/>
-  <img src="campus-placement-predictor/Coding%20Vs%20Aptitude.png" alt="Coding vs Aptitude" width="680" />
+  <img src="campus-placement-predictor/CA.png" alt="Coding vs Aptitude" width="680" />
 </p>
 
 <br/>
